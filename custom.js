@@ -13,8 +13,8 @@ window.snake.more_menu = function() {
   // tiny
   img = new Image;
   img.src = 'https://github.com/carlgustavh/GoogleSnakeCustomMenuStuffImages/blob/main/Tiny.png?raw=true';
-  img.width = 100;
-  img.height = 100;
+  img.width = 400;
+  img.height = 400;
   document.querySelector('#size').appendChild(img);
 
   // between small & standard
